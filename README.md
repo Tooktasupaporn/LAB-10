@@ -21,7 +21,7 @@
  <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-2.png">
 </p>
-
+![](https://github.com/Tooktasupaporn/LAB-10/blob/master/imgs/lab10-2.PNG?raw=true)
 ## การกำหนดจุดปลายของเส้นตรงด้วย style แบบต่างๆ
 
 * [LineCap Enumeration](https://msdn.microsoft.com/en-us/library/system.drawing.drawing2d.linecap(v=vs.110).aspx)
