@@ -42,6 +42,7 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-5.png">
 </p> 
 
+![](https://github.com/Tooktasupaporn/LAB-10/blob/master/imgs/lab10-4.PNG?raw=true)
 ## การวาดรูปทรงสี่เหลี่ยม
 ### การวาดสี่เหลี่ยมครั้งละรูปเดียว
   <p align="center">
