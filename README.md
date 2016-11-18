@@ -29,6 +29,7 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-3.png">
 </p>
 
+![](https://github.com/Tooktasupaporn/LAB-10/blob/master/imgs/lab10-3.PNG?raw=true)
 
 ##การวาดเส้นโค้ง
 การวาดเส้นโค้ง ทำได้โดยการกำหนดจุดไว้ใน array ของ point แล้วส่งให้กับฟังก์ชัน DrawCurve ดังตัวอย่างต่อไปนี้
