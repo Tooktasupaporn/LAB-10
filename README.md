@@ -72,7 +72,7 @@
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-10.png">
 </p>  
-
+![](https://github.com/Tooktasupaporn/LAB-10/blob/master/imgs/pie.PNG?raw=true)
 ## การสร้าง graphics path จากรูปต่างๆ 
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-11.png">
