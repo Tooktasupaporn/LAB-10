@@ -36,7 +36,7 @@
 <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-4.png">
 </p>
-
+![](https://github.com/Tooktasupaporn/LAB-10/blob/master/imgs/lab10-%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%87.PNG?raw=true)
 ## การวาดเส้นโค้งด้วย Graphics path
  <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-5.png">
@@ -48,11 +48,13 @@
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-6.png">
 </p> 
+
+![]()
 ###การวาดสี่เหลี่ยมพร้อมกันครั้งละหลายๆ รูป
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-7.png">
 </p> 
-
+![]()
 
 ## การวาดวงกลมและวงรี
 วงรีต่างจากวงกลมตรงที่เส้นผ่านศูนย์กลางในแกนตั้งและแกนนอนจะไม่เท่ากัน ในภาษาโปรแกรมส่วนใหญ่จะมีเฉพาะฟังก์ชันวาดวงรี ถ้าต้องการวาดวงกลม ให้กำหนดเส้นผ่านศูนย์กลางในแกนตั้งและแกนนอนให้เท่ากัน
@@ -74,7 +76,7 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-11.png">
 </p>  
 
-![](https://github.com/Tooktasupaporn/LAB-10/blob/master/imgs/lab10-4%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A12.PNG?raw=true)
+
 #แบบฝึกหัด
 ให้วาดรูปวิว โดยใช้รูปร่างต่างๆ ที่ทำการทดลองใน Lab นี้
 
